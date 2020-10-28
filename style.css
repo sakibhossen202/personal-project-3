@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color:grey;
+}
+.btn-style{
+    padding:10px 30px;
+    background-color:#8845F4;
+    border-radius: 15px;
+    color:white;
+    text-decoration: none;
+}
+.text-highlighter{
+    color:#8845F4;
+}
+h1{
+    font-size: 35px;
+}
+.half-width{
+    float:left;
+    width:45%;
+    margin-left:4%;
+    
+}
+.half-width>img{
+    width:75%;
+    height: 75%px;
+    position: center;
+}
+.profile{
+    width:100%;
+    height:500px;
+    
+}
+.dream{
+    margin-top: 50px;
+    width:100%;
+    height:500px;
+    
+}
+.dream img{
+    width:75%;
+    height: 75%;
+}
+footer{
+    margin-top: 50px;
+    
+}
